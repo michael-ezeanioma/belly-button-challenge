@@ -1,4 +1,3 @@
-# belly-button-challenge
 # Overview
 
 This project involves creating an interactive dashboard that visualizes microbial data using D3.js and Plotly.js. The dashboard allows users to explore bacterial samples from individuals, displaying key insights through a bar chart, bubble chart, and demographic panel. The app is dynamically updated based on user selection and is deployed using GitHub Pages.
