@@ -18,8 +18,11 @@ Allows users to select an individual’s sample ID, dynamically updating all cha
 # Files
 
 __index.html:__ Main HTML structure for the dashboard.
+
 __app.js:__ JavaScript file handling data fetching, chart creation, and interactivity.
+
 __samples.json:__ JSON data file containing bacterial sample information.
+
 __style.css__ – Optional styling for the dashboard.
 
 # Key Features
