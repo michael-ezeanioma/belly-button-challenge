@@ -57,9 +57,12 @@ GitHub Pages for hosting the dashboard.
 
 # Technologies Used
 __D3.js__: Fetches and processes JSON data.
+
 __Plotly.js:__ Generates interactive charts.
 __JavaScript (ES6)__: Handles logic for data transformation and visualization.
+
 __HTML & CSS__: – Structures and styles the dashboard.
+
 __GitHub Pages:__ – Hosts the live version of the dashboard.
 
 # How to Use
